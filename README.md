@@ -21,10 +21,15 @@ Seaborn
 
 For this project, I was interested in using Stack Overflow data to better understand:
 
-1.How many software languages should one master to obtain a better wage in developed and emerging nations such as the United States and India?
-2.What are the most paid software languages in the United States, India, and Germany, based on the highest paid professionals?
-3.Are the highly paid software languages and most often practiced are in sync?
-4.
+1. What are the Top 10 Countries respondents belong to?
+
+2. Does knowing more number of languages result in higher salaries?
+
+3 . What are the languages that earned the highest salaries?
+
+4 . Are the highest-paying languages in accordance with the rest of the workforce?
+
+5 . What languages do respondents want to work with in the future?
 
 **Conclusion:**
 
