@@ -2,11 +2,11 @@
 
 **Overview:**
 
-This project aims to analyze the StackOverflow survey data for the year 2022 to gain insights into the developer community. The StackOverflow survey is a comprehensive survey that gathers information from developers around the world about their demographics, education, work experience, and technology preferences.
+This project is to examine the 2022 StackOverflow survey data to obtain insight about the developer community. The StackOverflow survey is a comprehensive poll that collects data about the demographics, education, work experience, and technology preferences of developers from across the world.
 
 **Dataset:**
 
-The dataset used in this project is the StackOverflow survey data for the year 2022, which can be found on the official StackOverflow website. The dataset contains information about the responses of more than 100,000 developers from different parts of the world.
+The dataset used in this project is the StackOverflow survey data for the year 2022, which can be found on the official StackOverflow website. The dataset contains information about the responses of more than 70,000 developers from different parts of the world.
 
 **Tools Used:**
 
