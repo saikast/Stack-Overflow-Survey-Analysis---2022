@@ -24,17 +24,14 @@ Seaborn
 
 **Analysis:**
 
-For this project, I was interested in using Stack Overflow data to better understand:
+For this project, I was interested in Stack Overflow 2022 data to better understand:
 
- 1. What are the Top 10 Countries respondents belong to?
+1. What are the top ten countries respondents belong to?
+2. Does knowing more number of languaes result in higher salaries?
+3. What are the languages that earned the highest salaries?
+4. Are the highest-paying languages in accordance with rest of the workforce?
+5. What languages do respondents want to work with in the future?
 
- 2. Does knowing more number of languages result in higher salaries?
-
- 3 . What are the languages that earned the highest salaries?
-
- 4 . Are the highest-paying languages in accordance with the rest of the workforce?
-
- 5 . What languages do respondents want to work with in the future?
 
 **Conclusion:**
 
