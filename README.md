@@ -29,7 +29,7 @@ For this project, I was interested in employing Stack Overflow 2022 data to gain
 5. What languages do respondents want to work with in the future?
 
 
-The analysis for the above questions can be found here https://medium.com/@saipriyakasturi121/the-impact-of-programming-language-competence-on-salary-94f737dec22b
+The analysis for the above questions can be found [here](https://medium.com/@saipriyakasturi121/the-impact-of-programming-language-competence-on-salary-94f737dec22b)
 
 **Conclusion**:
 
