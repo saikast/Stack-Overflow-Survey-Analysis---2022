@@ -34,3 +34,9 @@ The analysis for the above questions can be found [here](https://medium.com/@sai
 **Conclusion**:
 
 The Stack Overflow Survey 2022 reveals IT sector language preferences and high-earning programming languages. Nonetheless, pay is affected by the experience, job position, and sector. To maximize earnings, professionals must learn new programming languages and technologies. A strategy and market analysis are required before deciding on a programming language.
+
+**Licensing, Authors, Acknowledgements**:
+
+Data is obtained from StackOverflow - [link](https://insights.stackoverflow.com/survey)
+
+This database - The Public 2022 Stack Overflow Developer Survey Results - is made available under the Open Database License (ODbL): http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
